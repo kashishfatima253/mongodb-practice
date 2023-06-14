@@ -1,2 +1,12 @@
 .env
 node_modules
+/.cache
+/.config
+/.git
+/.upm
+.gitattributes
+.prettierignore
+.replit
+replit.nix
+replit_zip_error_log.txt
+sample.env
